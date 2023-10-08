@@ -1,3 +1,6 @@
+# create_python_command.command以外の.commandを除外
+commands/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
